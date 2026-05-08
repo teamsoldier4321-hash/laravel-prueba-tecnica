@@ -160,6 +160,6 @@ app/
 
 routes/
  ├── api.php
-Autor
+Autor: Rafael Hernandez Meza
 
 Desarrollado como prueba técnica utilizando Laravel 11 y Sanctum.
